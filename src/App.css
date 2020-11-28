@@ -1,0 +1,18 @@
+@import '~antd/dist/antd.css';
+
+.float-right {
+    float: right;
+}
+.App {
+    padding: 120px 300px;
+}
+.Input {
+    margin-right: 10px;
+    width: 180px;
+}
+.btn {
+    margin-right: 10px;
+}
+.textList {
+    margin-top: 50px;
+}
